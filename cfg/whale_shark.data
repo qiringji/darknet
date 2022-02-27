@@ -1,4 +1,4 @@
-classes= 1
+classes= 2
 train  = cfg/whale-shark-train.txt
 valid  = cfg/whale-shark-test.txt
 names = data/whale_shark.names
